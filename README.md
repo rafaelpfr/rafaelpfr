@@ -32,7 +32,9 @@ I'm someone who is passionate about Security, Linux and DevOps.
 </p>
 
 ## Search Engine
+<p float="left">
   <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>  
+</p>
 
 ## Backend
 <p float="left">
@@ -48,8 +50,9 @@ I'm someone who is passionate about Security, Linux and DevOps.
 </p>
 
 ## Testing
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-
+<p float="left">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+</p>
 
 ## DevOps Tools
 
@@ -61,12 +64,14 @@ I'm someone who is passionate about Security, Linux and DevOps.
 
 - Container Orchestrator Tools
 
+<p float="left">
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>  
+</p>
 
 - Monitoring Tools Tools
-
+<p float="left">
   <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000"/>  
-
+</p>
 
 
 
