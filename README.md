@@ -10,10 +10,11 @@ I'm someone who is passionate about Security, Linux and DevOps.
 
 ## Operating Systems
 
+<p float="left">
   <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-
+</p>
 
 ## Languages
 
