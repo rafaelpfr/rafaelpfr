@@ -66,6 +66,11 @@ I'm someone who is passionate about Security, Linux and DevOps.
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
+### Cloud
+<p float="left">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>  
+</p>
+
 ### Container Orchestrator
 
 <p float="left">
