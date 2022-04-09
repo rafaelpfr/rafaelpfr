@@ -3,7 +3,7 @@
 I'm someone who is passionate about Security, Linux and DevOps.
 
 ## :man_technologist: More about me
-- :desktop_computer: I currently work as a fullstack developer (MERN).
+- :desktop_computer: I currently work as DevOps Engineer and a fullstack developer (MERN).
 - :open_book:	I am studying for RHCSA, RHCE, Security+ and OSCP certifications.
 - :telescope:	My goal is to be a DevSecOps engineer.
 
